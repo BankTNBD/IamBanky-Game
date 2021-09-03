@@ -3,7 +3,7 @@
 
 Simple **WEB-GAME** create by createjs
 
-## Authors
+## 😀 Authors
 
 - [@BankTNBD](https://github.com/BankTNBD)
 
